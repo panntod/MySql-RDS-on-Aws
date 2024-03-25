@@ -1,6 +1,7 @@
 # Create Subnet Group on AWS
 
 DB RDS Subnet Group is a virtual network that covers multiple Availability Zones within a region. It contains multiple subnets associated with different availability zones and provides access to Amazon RDS instances within those zones.
+
 *Note: This article assumes that you have a account Aws
 
 1. ![aws dashboard](https://github.com/panntod/MySql-RDS-on-Aws/blob/main/Create%20Subnet%20Group/dashboard-aws.png?raw=true)
