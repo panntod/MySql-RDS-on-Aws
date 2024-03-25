@@ -1,4 +1,4 @@
-# Create Vpc on AWS
+# Create Ec2 on AWS
 
 Amazon Elastic Compute Cloud is part of Amazon.com's cloud computing platform, Amazon Web Services, which allows users to rent virtual computers to run their own computer applications.
 
